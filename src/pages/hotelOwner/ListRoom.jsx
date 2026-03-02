@@ -42,7 +42,7 @@ const ListRoom = () => {
               ))
             }
           </tbody>
-        </table>
+        </table>    
       </div>
     </div>
   )
